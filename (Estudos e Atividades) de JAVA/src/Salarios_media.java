@@ -11,15 +11,15 @@ public class Salarios_media {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Coloque que o primeiro numero para a soma: ");
-        n1 = input.nextInt();
+        func1 = input.nextInt();
 
         System.out.println("Coloque que o segundo numero para a soma: ");
-        n2 = input.nextInt();
+        func2 = input.nextInt();
 
         System.out.println("Coloque que o terceiro numero para a soma: ");
-        n3 = input.nextInt();
+        func3 = input.nextInt();
 
-        System.out.println(n1+n2+n3);
+        System.out.println((func1+func2+func3) / 2);
 
 
     }
