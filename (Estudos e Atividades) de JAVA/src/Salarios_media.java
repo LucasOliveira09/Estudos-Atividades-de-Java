@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Salarios_media {
     public static void main(String[] args) {
 
-        int func1, func2, func3, medias;
+        int func1, func2, func3;
 
         Scanner input = new Scanner(System.in);
 
