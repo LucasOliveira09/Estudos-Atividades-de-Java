@@ -4,6 +4,6 @@ public class Ex_1_Lista_1 {
         while( cont <= 10){
             System.out.println(cont);
             cont++;
-        }
+        }s
     }
 }
